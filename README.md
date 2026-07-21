@@ -140,7 +140,7 @@ A JavaScript beginner project demonstrating
 
 [<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sarbeswarpanda04&theme=algolia&margin-w=15&margin-h=15"/>
+<img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=Sarbeswarpanda04"/>
 
 </p>](https://trophygithubreadmelang.cybee.dpdns.org/?username=Sarbeswarpanda04&theme=light)
 
