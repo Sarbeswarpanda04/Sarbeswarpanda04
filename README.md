@@ -48,7 +48,7 @@ Become a professional Full Stack Developer and contribute to impactful open-sour
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
+---      
 
 # 📚 Currently Learning
 
@@ -138,11 +138,11 @@ A JavaScript beginner project demonstrating
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+[<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sarbeswarpanda04&theme=algolia&margin-w=15&margin-h=15"/>
 
-</p>
+</p>](https://trophygithubreadmelang.cybee.dpdns.org/?username=Sarbeswarpanda04&theme=light)
 
 ---
 
